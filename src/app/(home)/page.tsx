@@ -13,7 +13,7 @@ export default async function Home({ searchParams }: PropsType) {
 
   return (
     <>
-      
+      Home Page
     </>
   );
 }
